@@ -10,7 +10,7 @@ Work in progress
 
 # My projects
 ## bee-py (ape as a module)
-- In this project I have used the ape accounts & ape types in my project.
+- In this project I have used the ape accounts & ape types.
 - [bee-py](https://github.com/alienrobotninja/bee-py)
 
 # Community projects using ape
