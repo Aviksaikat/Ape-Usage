@@ -8,7 +8,7 @@ Work in progress
 - [network-configs.md](./network-configs.md)
 - [commands.md](./commands.md)
 
-# Projects using ape
+# Community projects using ape
 - [Yearn Vaults v3](https://github.com/yearn/yearn-vaults-v3)
 - [Lido gate seals](https://github.com/lidofinance/gate-seals)
 - [Ape Academy ERC20 template](https://github.com/ApeAcademy/ERC20)
