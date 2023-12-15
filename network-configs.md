@@ -23,6 +23,24 @@ test:
   number_of_accounts: 10
 ```
 
+# Fork From A Particular Block Number
+```yaml
+ethereum:
+  default_network: mainnet
+  mainnet:
+    default_provider: infura
+  mainnet_fork:
+    default_provider: foundry
+
+foundry:
+  fork:
+    ethereum:
+      mainnet:
+        upstream_provider: infura
+          block_number: ${BLOCK}
+```
+
+
 # Working with local RPC with test accounts
 ```yaml
 name: Project-Name
